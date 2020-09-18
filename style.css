@@ -162,11 +162,3 @@ body {
   #caption, .input-info, .time-label {
       font-family: 'Quicksand', sans-serif;
   }
-
-  #input5, #input4 {
-    background-color: rgb(250,155,155)
-  }
-
-  #input3 {
-      background-color: rgb(142,250,150)
-  }
