@@ -15,7 +15,7 @@ This project focuses on the usage of localStorage, DOM manipulation, Moment.js, 
 This project can be accessed either via the GitHub Repository page or the deployed public page. 
 
 - [GitHub Repository](https://github.com/sophia2798/API_quiz)
-- [Deployed Page](https://sophia2798.github.io/API_quiz/)
+- [Deployed Page](https://sophia2798.github.io/work_planner/)
 
 To open and edit code files, you will need a text editor. The one used to create this page was Visual Studio Code (https://code.visualstudio.com/).
 
